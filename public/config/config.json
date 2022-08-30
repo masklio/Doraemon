@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf06ccFf8b1eb078628412879C33663f9f0F67168",
+  "SCAN_LINK": "https://bscscan.com/token/0xf06ccff8b1eb078628412879c33663f9f0f67168#balances",
+  "NETWORK": {
+    "NAME": "Doraemon",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Doraemon",
+  "SYMBOL": "DM",
+  "MAX_SUPPLY": 130,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Element",
+  "MARKETPLACE_LINK": "https://www.element.market/collections/doraemon_nft",
+  "SHOW_BACKGROUND": true
+}
